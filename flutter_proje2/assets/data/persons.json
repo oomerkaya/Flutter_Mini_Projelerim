@@ -1,0 +1,254 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "ad_soyad": "Ahmet Yılmaz",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 2,
+            "ad_soyad": "Ayşe Kaya",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 3,
+            "ad_soyad": "Mehmet Demir",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 4,
+            "ad_soyad": "Fatma Çelik",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 5,
+            "ad_soyad": "Mustafa Şahin",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 6,
+            "ad_soyad": "Emine Yıldız",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 7,
+            "ad_soyad": "Ali Öztürk",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 8,
+            "ad_soyad": "Hatice Aydın",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 9,
+            "ad_soyad": "Hüseyin Özdemir",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 10,
+            "ad_soyad": "Zeynep Arslan",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 11,
+            "ad_soyad": "Hasan Doğan",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 12,
+            "ad_soyad": "Elif Kılıç",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 13,
+            "ad_soyad": "İbrahim Aslan",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 14,
+            "ad_soyad": "Merve Çetin",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 15,
+            "ad_soyad": "İsmail Kara",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 16,
+            "ad_soyad": "Büşra Koç",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 17,
+            "ad_soyad": "Osman Kurt",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 18,
+            "ad_soyad": "Özlem Özkan",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 19,
+            "ad_soyad": "Murat Şimşek",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 20,
+            "ad_soyad": "Esra Polat",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 21,
+            "ad_soyad": "Ömer Özcan",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 22,
+            "ad_soyad": "Seda Korkmaz",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 23,
+            "ad_soyad": "Yusuf Çakır",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 24,
+            "ad_soyad": "Yasemin Erdoğan",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 25,
+            "ad_soyad": "Sinan Yalçın",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 26,
+            "ad_soyad": "Gülşen Yavuz",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 27,
+            "ad_soyad": "Burak Güneş",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 28,
+            "ad_soyad": "Kubra Aksoy",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 29,
+            "ad_soyad": "Ercan Şen",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 30,
+            "ad_soyad": "Derya Tekin",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 31,
+            "ad_soyad": "Onur Bulut",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 32,
+            "ad_soyad": "Sibel Keskin",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 33,
+            "ad_soyad": "Kaan Taş",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 34,
+            "ad_soyad": "Tuğba Gül",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 35,
+            "ad_soyad": "Tolga Avcı",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 36,
+            "ad_soyad": "Ebru Doğu",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 37,
+            "ad_soyad": "Emre Kahraman",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 38,
+            "ad_soyad": "Hande Parlak",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 39,
+            "ad_soyad": "Serkan Duran",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 40,
+            "ad_soyad": "Pınar Ünal",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 41,
+            "ad_soyad": "Volkan Yaşar",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 42,
+            "ad_soyad": "Gamze Coşkun",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 43,
+            "ad_soyad": "Cem Erdem",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 44,
+            "ad_soyad": "Deniz Bilgin",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 45,
+            "ad_soyad": "Alper Duman",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 46,
+            "ad_soyad": "Tülay Savaş",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 47,
+            "ad_soyad": "Eren Güler",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 48,
+            "ad_soyad": "Gözde Karaca",
+            "cinsiyet": "Kadın"
+        },
+        {
+            "id": 49,
+            "ad_soyad": "Berkay Kılıç",
+            "cinsiyet": "Erkek"
+        },
+        {
+            "id": 50,
+            "ad_soyad": "Simge Acar",
+            "cinsiyet": "Kadın"
+        }
+    ]
+}
